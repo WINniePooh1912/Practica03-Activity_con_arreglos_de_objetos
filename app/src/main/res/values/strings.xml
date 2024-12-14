@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practica04</string>
+
+    <string name="title">~Registro de Motocicletas~</string>
+    <string name="brand">Marca:</string>
+    <string name="model">Modelo:</string>
+    <string name="price">Precio:</string>
+    <string name="year">Año:</string>
+
+    <!-- Buttons -->
+    <string name="add">Agregar</string>
+    <string name="search">Buscar</string>
+    <string name="clean">Limpiar</string>
+    <!--    <string name=""></string>-->
+</resources>

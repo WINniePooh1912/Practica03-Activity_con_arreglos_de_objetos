@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--Practica04 App-->
+    <color name="aqua">#186F65</color>
+    <color name="dusty">#EBE3D5</color>
+    <color name="brownish">#76453B</color>
+    <color name="reder">#8C3826</color>
+    <color name="yellower">#ECB159</color>
+    <color name="darker">#1B1A17</color>
+</resources>
